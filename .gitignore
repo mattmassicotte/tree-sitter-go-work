@@ -4,7 +4,7 @@ build
 *.log
 package-lock.json
 target
-
+/.build
 /*.a
 /*.dylib
 /*.so*
